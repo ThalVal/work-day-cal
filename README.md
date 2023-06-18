@@ -24,10 +24,13 @@ Schedule events for a day in a calendar.
 
 ### Deployed Site
 
+https://thalval.github.io/work-day-cal/
 
 <br />
 
 ### Work Day Scheduler Screenshot
+
+![thalval github io_work-day-cal_(Surface Pro 7)](https://github.com/ThalVal/Quiz-Quiz/assets/125854665/dbc2d875-7dee-4ab4-a95a-9f95a2a9ad63)
 
 
 <br />
